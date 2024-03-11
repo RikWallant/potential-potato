@@ -1,1 +1,1 @@
-https://rikwallant.github.io/potential-potato/Tea Shop Website
+https://rikwallant.github.io/potential-potato/TeaShopWebsite
