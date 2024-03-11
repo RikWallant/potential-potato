@@ -1,2 +1,1 @@
-# potential-potato
-Website outputs
+https://rikwallant.github.io/potential-potato/
