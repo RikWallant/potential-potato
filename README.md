@@ -4,3 +4,5 @@ https://rikwallant.github.io/potential-potato/Tea_shop_website
 
 https://rikwallant.github.io/potential-potato/codecademy_cheatsheet-main
 
+https://rikwallant.github.io/potential-potato/Website_style_guide
+
