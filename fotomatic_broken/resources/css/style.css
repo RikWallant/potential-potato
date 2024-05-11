@@ -143,8 +143,8 @@ header .mobile {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  height: 44.3125rem;  
-  background-image: url("/resources/images/banner-landingpage.jpg");
+  height: 44.3125rem;
+  background-image: url(/resources/images/banner-landingpage.jpg);
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
