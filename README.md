@@ -11,3 +11,7 @@ https://rikwallant.github.io/potential-potato/Website_style_guide
 https://rikwallant.github.io/potential-potato/fotomatic_broken
 
 https://rikwallant.github.io/potential-potato/flexbox-business-site-starting
+
+Ben's website:
+
+https://rikwallant.github.io/potential-potato/ben-website
